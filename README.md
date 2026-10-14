@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I'm Umar Faruk Ranebennur 👋 Mobility Coordinator | Accenture ><br><br>🌎 Mobility Expertise<br><br>Experienced in managing end-to-end corporate travel operations for US and Canada employees ✈️, ensuring smooth support across pre-trip, during travel, and post-trip stages 🔄. Skilled in handling urgent and complex travel scenarios ⚡ while maintaining strict compliance with company policies and cost controls 📋💰. Adept at optimizing processes 📈, improving turnaround times ⏳, and collaborating with vendors and internal stakeholders 🤝 to enhance efficiency and traveler experience 🌍. Strong focus on documentation 🧾, audit readiness 📊, and delivering high-quality support through effective communication 📞 and continuous process improvement 🚀.<br><br>---<br><br>🧩 Key Skills<br><br>✈️ Corporate Travel Management<br><br>📋 Policy Compliance & Governance<br><br>🛂 Travel Documentation & Visa Coordination<br><br>⏱️ SLA Management & Operational Tracking<br><br>⚡ Issue Resolution & Crisis Handling<br><br>📊 Reporting, Auditing & Data Analysis<br><br>🤝 Stakeholder & Vendor Management<br><br>📞 Communication & Customer Support<br><br>📈 Process Improvement & Operational Efficiency<br><br>💰 Cost Control & Budget Optimization<br><br>🔄 End-to-End Travel Lifecycle Management<br><br>🌍 International Travel Coordination<br><br>---<br><br>🛠️ Tools & Technologies<br><br>🖥️ Workday – Profile management for international assignees, offer release, and candidate tracking<br><br>💻 SAP – Payroll, employee data, and assignment cost center tracking<br><br>📥 ServiceNow (SNOW) – Workflow Automation & Case Management<br><br>📊 MS Office Suite – Word, Excel (including VLOOKUPs, Pivot Tables), PowerPoint, and Outlook<br><br>💸 Global Payroll – Support and coordinate multi-country payroll processing
 
-<!--
-**UFaruk45/UFaruk45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Umar Faruk Ranebennur) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faruu_45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/umar-faruk-r) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ufranebennur45@outlook.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=UFaruk45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=UFaruk45&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=UFaruk45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=UFaruk45&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
